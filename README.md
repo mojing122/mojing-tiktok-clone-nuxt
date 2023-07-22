@@ -1,8 +1,45 @@
-# Nuxt 3 Minimal Starter
+# 基于Nuxt.js+Laravel复刻实现tiktok网页版
+
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mojing122/mojing-tiktok-clone-nuxt/master?logo=GitHub)![GitHub repo size](https://img.shields.io/github/repo-size/mojing122/mojing-tiktok-clone-nuxt)![GitHub](https://img.shields.io/github/license/mojing122/mojing-tiktok-clone-nuxt)
+
+本项目为前端部分，采用Nuxt.js框架实现，样式部分采用tailwindcss，后端api实现见项目[mojing122/mojing-tiktok-clone-api-laravel (github.com)](https://github.com/mojing122/mojing-tiktok-clone-api-laravel)
+
+项目参考John-Weeks-Dev的教程[youtube.com/watch?v=CHSL0Btbj_o](https://www.youtube.com/watch?v=CHSL0Btbj_o)
+
+预览：
+
+![ss-2023722](tiktok-clone/ss-2023722.gif)
+
+网页预览：https://tiktok.mojing.live
+
+Github：[mojing122/mojing-tiktok-clone-nuxt (github.com)](https://github.com/mojing122/mojing-tiktok-clone-nuxt/)
+
+Gitee：[mojing-tiktok-clone-nuxt (gitee.com)](https://gitee.com/sha-zhiqing/mojing-tiktok-clone-nuxt/)
+
+## 实现功能
+
+- [x] 登录、注册
+- [x] 登录拦截器
+- [x] 首页
+  - [x] 滚动页面自动播放/暂停
+  - [x] 点赞
+  - [x] 随机展示其他用户
+- [x] 个人资料页
+  - [x] 上传头像（需权限）
+  - [x] 修改个人资料（需权限）
+  - [x] 展示个人上传视频
+- [x] 上传视频
+- [x] 视频详情页
+  - [x] 上下切换视频
+  - [x] 点赞、评论
+  - [x] 删除视频（需权限）
+- [ ] ……
+
+## 项目运行
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
+### Setup
 
 Make sure to install the dependencies:
 
@@ -17,9 +54,9 @@ pnpm install
 yarn install
 ```
 
-## Development Server
+### Development Server
 
-Start the development server on `http://localhost:3000`:
+Start the development server on `http://localhost:xxxx`:
 
 ```bash
 # npm
@@ -32,7 +69,7 @@ pnpm run dev
 yarn dev
 ```
 
-## Production
+### Production
 
 Build the application for production:
 
@@ -61,3 +98,48 @@ yarn preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## 项目截图
+
+### 大屏效果：
+
+![image-20230722163609412](tiktok-clone\image-20230722163609412.png)
+
+
+
+![image-20230722164303018](tiktok-clone\image-20230722164303018.png)
+
+![image-20230722164432839](tiktok-clone\image-20230722164432839.png)
+
+![image-20230722164503390](tiktok-clone\image-20230722164503390.png)
+
+![image-20230722164551539](tiktok-clone\image-20230722164551539.png)
+
+### 小屏效果：
+
+| ![](tiktok-clone\image-20230722164757061.png)                | ![image-20230722164938168](C:\Users\Mojing\OneDrive\文档\Markdown\projects\tiktok-clone\image-20230722164938168.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![image-20230722165037412](tiktok-clone\image-20230722165037412.png) | ![image-20230722165126280](tiktok-clone\image-20230722165126280.png) |
+
+
+
+## 更多信息
+
+文档站：https://docs.mojing.live
+
+## License
+
+Copyright [2023] [Sha Zhiqing]
+
+   Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, softwaredistributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+## About me
+
+
+
+<img src="https://picgo-1304966930.cos.ap-nanjing.myqcloud.com/logo.png" alt="logo" style="zoom:15%;" />MoJing 人工智能专业大三本科生
+
+
+
