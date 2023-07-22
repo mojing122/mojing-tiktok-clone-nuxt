@@ -117,7 +117,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 ### 小屏效果：
 
-| ![](tiktok-clone\image-20230722164757061.png)                | ![image-20230722164938168](C:\Users\Mojing\OneDrive\文档\Markdown\projects\tiktok-clone\image-20230722164938168.png) |
+| ![](tiktok-clone\image-20230722164757061.png)                | ![image-20230722164938168](tiktok-clone\image-20230722164938168.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![image-20230722165037412](tiktok-clone\image-20230722165037412.png) | ![image-20230722165126280](tiktok-clone\image-20230722165126280.png) |
 
