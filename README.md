@@ -103,23 +103,23 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 ### 大屏效果：
 
-![image-20230722163609412](tiktok-clone\image-20230722163609412.png)
+![image-20230722163609412](tiktok-clone/image-20230722163609412.png)
 
 
 
-![image-20230722164303018](tiktok-clone\image-20230722164303018.png)
+![image-20230722164303018](tiktok-clone/image-20230722164303018.png)
 
-![image-20230722164432839](tiktok-clone\image-20230722164432839.png)
+![image-20230722164432839](tiktok-clone/image-20230722164432839.png)
 
-![image-20230722164503390](tiktok-clone\image-20230722164503390.png)
+![image-20230722164503390](tiktok-clone/image-20230722164503390.png)
 
-![image-20230722164551539](tiktok-clone\image-20230722164551539.png)
+![image-20230722164551539](tiktok-clone/image-20230722164551539.png)
 
 ### 小屏效果：
 
-| ![](tiktok-clone\image-20230722164757061.png)                | ![image-20230722164938168](tiktok-clone\image-20230722164938168.png) |
+| ![](tiktok-clone/image-20230722164757061.png)                | ![image-20230722164938168](tiktok-clone/image-20230722164938168.png) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image-20230722165037412](tiktok-clone\image-20230722165037412.png) | ![image-20230722165126280](tiktok-clone\image-20230722165126280.png) |
+| ![image-20230722165037412](tiktok-clone/image-20230722165037412.png) | ![image-20230722165126280](tiktok-clone/image-20230722165126280.png) |
 
 
 
